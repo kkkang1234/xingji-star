@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+work/
+private/
+comparison/
+*.MOV
+*.mov
+*.mp4
+*.webm
+*.zip
+preview-*.png
+test-results/
+playwright-report/
