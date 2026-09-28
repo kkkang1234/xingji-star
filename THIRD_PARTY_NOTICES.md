@@ -14,4 +14,4 @@
 - [Pose Landmarker 模型与说明](https://developers.google.com/edge/mediapipe/solutions/vision/pose_landmarker)。文件：https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task
 - [Hand Landmarker 模型与说明](https://developers.google.com/edge/mediapipe/solutions/vision/hand_landmarker)。文件：https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
 
-模型用于关键点和表情系数估计，不提供人物身份识别，也不等同于自然度、美学或大屏语义分类模型。后续正式公开仓库前需保留此来源与完整组件许可，并核对模型的再分发条款；必要时改为从官方地址下载模型的安装步骤。
+模型用于关键点和表情系数估计，不提供人物身份识别，也不等同于自然度、美学或大屏语义分类模型。公开仓库持续保留以上来源与完整组件许可；若发布方条款发生变化，应重新核对模型的再分发要求，必要时改为从官方地址下载模型的安装步骤。

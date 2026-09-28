@@ -46,6 +46,6 @@ V2 模型需要 HTTP 加载。不要直接双击 index.html 或 prototype.html �
 
 `npm run check` 检查语法；`npm test` 测试选片逻辑；`npm run build:prototype` 更新 HTML 预览。修改业务逻辑后应使用真实视频重新验证，不把单元测试等同于选片效果提升。
 
-本仓库保存「星迹 StarTrace」V2 的可运行源码。真实演唱会视频、抽帧对比图及个人分析数据均未上传；第三方运行文件与模型来源见 THIRD_PARTY_NOTICES.md。
+本仓库保存「星迹 StarTrace」V2 的可运行源码：[github.com/kkkang1234/xingji-star](https://github.com/kkkang1234/xingji-star)。真实演唱会视频、抽帧对比图及个人分析数据均未上传；第三方运行文件与模型来源见 THIRD_PARTY_NOTICES.md。
 
 原创材料仅用于小红书2027校园招聘评估，未经作者许可不得用于其他用途；第三方组件遵循各自条款。
